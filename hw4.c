@@ -1,8 +1,8 @@
 // Lex Albrandt
 // albrandt@pdx.edu
-// 05/08/25
+// 05/12/25
 // CS 350
-// HW 4 initial commit
+// HW 4 final
 
 // The purpose of this code is to demonstrate Horspool's Algorithm
 // 
